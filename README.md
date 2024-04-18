@@ -2,10 +2,13 @@
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300"/>
-</div>
-My name is Roman I'm a trainee frontend developer with a real passion for building attractive and comfortable interfaces.<br>
+
+  My name is Roman I'm a trainee frontend developer with a real passion for building attractive and comfortable interfaces.<br>
 <br>
 Additionally, I'm a beginner 3d artist. So, I want to implement my 3d models to web development in the future =)
+</div>
+
+
 
 
 ## 🛠️ My stack
