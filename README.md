@@ -1,6 +1,6 @@
 ### 👋 Hello there 
 
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200"/>
 </div>
 My name is Roman I'm a junior frontend developer with a real passion for building attractive and comfortable interfaces.
