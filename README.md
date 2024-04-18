@@ -5,7 +5,7 @@
 </div>
 My name is Roman I'm a junior frontend developer with a real passion for building attractive and comfortable interfaces.<br>
 <br>
-Additionally, I'm a beginner 3d artist. So, I want to bring my projects to web development in the future =)
+Additionally, I'm a beginner 3d artist. So, I want to implement my 3d models to web development in the future =)
 
 ## 🛠️ My stack
 
@@ -13,6 +13,12 @@ Additionally, I'm a beginner 3d artist. So, I want to bring my projects to web d
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=%23fff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 💻 My Projects
+
+| Project Repo | Demo | Description |
+| -- | -- | -- |
+| [Ellty Graphic Design Platform](https://github.com/AfterWaGa/ellty) | [Live Demo](https://afterwaga.github.io/ellty/) | First selfmade project. HTML, CSS (SCSS), JS practice. Also some practice with responsive web design  |
 
 ## 📈 Stats and widgets
 
