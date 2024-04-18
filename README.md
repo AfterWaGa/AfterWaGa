@@ -16,7 +16,7 @@ Additionally, I'm a beginner 3d artist. So, I want to bring my projects to web d
 
 ## 📈 Stats and widgets
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfterWaGa)](https://github.com/anuraghazra/github-readme-stats)
+![Roman's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AfterWaGa&theme=tokyonight)
 
 
 
