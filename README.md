@@ -14,4 +14,10 @@ Additionally, I'm a beginner 3d artist. So, I want to bring my projects to web d
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=%23fff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## 📈 Stats and widgets
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfterWaGa)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
