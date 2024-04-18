@@ -20,7 +20,7 @@ Additionally, I'm a beginner 3d artist. So, I want to implement my 3d models to 
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
-| [Ellty Graphic Design Platform](https://github.com/AfterWaGa/ellty) | [Live Demo](https://afterwaga.github.io/ellty/) | First selfmade project. HTML, CSS (SCSS), JS practice. Also some practice with responsive web design.  |
+| [Ellty Graphic Design Platform](https://github.com/AfterWaGa/ellty) | [Live Demo](https://afterwaga.github.io/ellty/) | First selfmade project. HTML, CSS (SCSS), JS, responsive web design practice. |
 
 
 ## :mortar_board: My training Projects
