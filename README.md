@@ -1,7 +1,7 @@
 ## 👋 Hello there 
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300"/>
 </div>
 My name is Roman I'm a junior frontend developer with a real passion for building attractive and comfortable interfaces.<br>
 <br>
