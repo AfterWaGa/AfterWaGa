@@ -1,7 +1,7 @@
 ## 👋 Hello there 
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/danielmrz-dev/danielmrz-dev/main/assets/Static%20assets.gif" width="400" height="300"/>
+  <img src="https://raw.githubusercontent.com/danielmrz-dev/danielmrz-dev/main/assets/Static%20assets.gif" width="300" height="300"/>
 
 My name is Roman I'm a trainee frontend developer with a real passion for building attractive and comfortable interfaces.<br>
 <br>
