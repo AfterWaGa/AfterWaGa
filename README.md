@@ -30,6 +30,7 @@ Additionally, I'm a beginner 3d artist. So, I want to implement my 3d models to 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
 | [Blog Preview Card](https://github.com/AfterWaGa/Preview-Card) | [Live Demo](https://afterwaga.github.io/Preview-Card/) | Solution for Frontend Mentor's challenge |
+| [Bankist JS App](https://github.com/AfterWaGa/Bankist) | [Live Demo] | Training project made by course of Jonas Schmedtmann |
 
 
 ## 📈 Stats and widgets
