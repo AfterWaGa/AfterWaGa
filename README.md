@@ -29,8 +29,10 @@ Additionally, I'm a beginner 3d artist. So, I want to implement my 3d models to 
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
-| [Blog Preview Card](https://github.com/AfterWaGa/Preview-Card) | [Live Demo](https://afterwaga.github.io/Preview-Card/) | Solution for Frontend Mentor's challenge |
 | [Bankist JS App](https://github.com/AfterWaGa/Bankist) | [Live Demo](https://afterwaga.github.io/Bankist/) | Training project made by course of Jonas Schmedtmann |
+| [Blog Preview Card](https://github.com/AfterWaGa/Preview-Card) | [Live Demo](https://afterwaga.github.io/FM_Preview-Card/) | Solution for Frontend Mentor's challenge |
+| [Preview Component with links](https://github.com/AfterWaGa/FM_Preview-component) | [Live Demo](https://afterwaga.github.io/FM_Preview-component/) | Solution for Frontend Mentor's challenge |
+
 
 
 ## 📈 Stats and widgets
