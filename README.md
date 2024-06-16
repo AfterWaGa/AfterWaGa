@@ -29,7 +29,8 @@ Additionally, I'm a beginner 3d artist. So, I want to implement my 3d models to 
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
-| [Bankist JS App](https://github.com/AfterWaGa/Bankist) | [Live Demo](https://afterwaga.github.io/Bankist/) | Training project made by course of Jonas Schmedtmann |
+| [Bankist JS App](https://github.com/AfterWaGa/Bankist) | [Live Demo](https://afterwaga.github.io/Bankist/) | Training JS App made by course of Jonas Schmedtmann |
+| [Bankist JS Website](https://github.com/AfterWaGa/Bankist-Website) | [Live Demo](https://afterwaga.github.io/Bankist-Website/) | Training JS Website made by course of Jonas Schmedtmann |
 | [Blog Preview Card](https://github.com/AfterWaGa/Preview-Card) | [Live Demo](https://afterwaga.github.io/FM_Preview-Card/) | Solution for Frontend Mentor's challenge |
 
 
