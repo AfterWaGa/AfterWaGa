@@ -32,6 +32,8 @@ Additionally, I'm a beginner 3d artist. So, I want to implement my 3d models to 
 | [Bankist JS Website](https://github.com/AfterWaGa/Bankist-Website) | [Live Demo](https://afterwaga.github.io/Bankist-Website/) | Training JS Website made by course of Jonas Schmedtmann |
 | [Forkify JS App](https://github.com/AfterWaGa/Forkify) | [Live Demo](https://afterwagaforkify.netlify.app/) | [🛠️ WIP 🛠️] Training JS Application made by course of Jonas Schmedtmann |
 | [Bankist JS App](https://github.com/AfterWaGa/Bankist) | [Live Demo](https://afterwaga.github.io/Bankist/) | Training JS App made by course of Jonas Schmedtmann |
+| [Age Calculator](https://github.com/AfterWaGa/age-calculator) | [Live Demo](https://afterwaga.github.io/age-calculator/) | Training JS mini-app |
+
 
 ## 📈 Stats and widgets
 
