@@ -2,9 +2,8 @@
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/danielmrz-dev/danielmrz-dev/main/assets/Static%20assets.gif" width="350" height="300"/>
-
-Hello there, Exile!
 </div>
+Hello there, Exile!
 
 
 ## 🛠️ My stack
