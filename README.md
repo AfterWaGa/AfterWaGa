@@ -15,7 +15,7 @@ Hello there, Exile!<br>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=60 height=60 alt="CSS3" title="CSS3">
   <img src="https://camo.githubusercontent.com/51853941260ae860198fc42caf94c597eba7dc12e6f8d3caf65df49c1b6e82b6/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f636861726c65735f70726f78795f6d61636f735f6269677375725f69636f6e5f3139303330322e706e67" width=60 height=60 alt="Charles Proxy" title="Charles Proxy">
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width=60 height=60 alt="Android Studio" title="Android Studio">
-  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width=60 height=60 alt="Firebase" title="Firebase">
+  <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width=60 height=60 alt="Firebase" title="Firebase">
 </div>
 
 ### API testing
