@@ -43,6 +43,7 @@
     <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" width=40 height=40 alt="Cypress" title="Cypress">
 </div>
 <br>
+
 ## 💻 My In-depth Projects
 
 | Project Repo | Demo | Description |
