@@ -8,8 +8,9 @@ Hello there, Exile!<br>
 
 
 ## 🛠️ My stack
+### Web and mobile testing
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=%23fff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,7 +29,6 @@ Hello there, Exile!<br>
 | Project Repo | Demo | Description |
 | -- | -- | -- |
 | [Bankist JS Website](https://github.com/AfterWaGa/Bankist-Website) | [Live Demo](https://afterwaga.github.io/Bankist-Website/) | Training JS Website made by course of Jonas Schmedtmann |
-| [Forkify JS App](https://github.com/AfterWaGa/Forkify) | [Live Demo](https://afterwagaforkify.netlify.app/) | [🛠️ WIP 🛠️] Training JS Application made by course of Jonas Schmedtmann |
 | [Bankist JS App](https://github.com/AfterWaGa/Bankist) | [Live Demo](https://afterwaga.github.io/Bankist/) | Training JS App made by course of Jonas Schmedtmann |
 
 ## 📈 Stats and widgets
