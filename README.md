@@ -9,7 +9,7 @@ Hello there, Exile!<br>
 
 ## 🛠️ My stack
 ### Web and mobile testing
-<div style="display: flex; gap: 20px;">
+<div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width=60 height=60 alt="Figma" title="Figma">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width=60 height=60 alt="HTML5" title="HTML5">
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=60 height=60 alt="CSS3" title="CSS3">
@@ -19,7 +19,7 @@ Hello there, Exile!<br>
 </div>
 
 ### API testing
-<div style="display: flex; gap: 20px;">
+<div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width=60 height=60 alt="Postman" title="Postman">
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width=60 height=60 alt="Swagger" title="Swagger">
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width=60 height=60 alt="REST API" title="REST API">
@@ -27,21 +27,21 @@ Hello there, Exile!<br>
 </div>
 
 ### Logs
-<div style="display: flex; gap: 20px;">
+<div style="display: flex;">
     <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" width=60 height=60 alt="Kibana" title="Kibana">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" width=60 height=60 alt="Sentry" title="Sentry">
     <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" width=60 height=60 alt="Jaeger" title="Jaeger">
 </div>
 
 ### Databases
-<div style="display: flex; gap: 20px;">
+<div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width=60 height=60 alt="PostgreSQL" title="PostgreSQL">
     <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width=60 height=60 alt="Mongo DB" title="Mongo DB">
     <img src="https://camo.githubusercontent.com/88279973506a8c228b3789a81cb8ed57e8f711f855f9a0735652fc117dffe955/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6d657461626173652e737667" width=60 height=60 alt="Metabase" title="Metabase">
 </div>
 
 ### Autotests
-<div style="display: flex; gap: 20px;">
+<div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width=60 height=60 alt="VS Code" title="VS Code">
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=60 height=60 alt="JavaScript" title="JavaScript">
     <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" width=60 height=60 alt="Cypress" title="Cypress">
