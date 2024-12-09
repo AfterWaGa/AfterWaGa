@@ -42,18 +42,13 @@
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=40 height=40 alt="JavaScript" title="JavaScript">
     <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" width=40 height=40 alt="Cypress" title="Cypress">
 </div>
-
-
-
-
+<br>
 ## 💻 My In-depth Projects
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
 | [Ellty Graphic Design Platform](https://github.com/AfterWaGa/ellty) | [Live Demo](https://afterwaga.github.io/ellty/) | First selfmade project. HTML, CSS (SCSS), JS, responsive web design practice. |
-
-
-
+<br>
 
 ## :mortar_board: My training Projects
 ### The purpose of these projects is to explore something new and to get more practice.
