@@ -1,7 +1,7 @@
 ## 👋 Hello there 
 
 <div id="header" align="center">
-  <img src="https://gifyu.com/image/SJgSP" width="350" height="300"/>
+  <img src="https://s13.gifyu.com/images/SJgSP.gif" width="350" height="300"/>
 </div>
 
 ## 🛠️ Web and mobile testing
