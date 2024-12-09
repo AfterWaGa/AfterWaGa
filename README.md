@@ -58,6 +58,7 @@
 | -- | -- | -- |
 | [Bankist JS Website](https://github.com/AfterWaGa/Bankist-Website) | [Live Demo](https://afterwaga.github.io/Bankist-Website/) | Training JS Website made by course of Jonas Schmedtmann |
 | [Bankist JS App](https://github.com/AfterWaGa/Bankist) | [Live Demo](https://afterwaga.github.io/Bankist/) | Training JS App made by course of Jonas Schmedtmann |
+| [Bankist JS Website](https://github.com/AfterWaGa/cypress) |  | Training with Cypress for Login form on website |
 
 ## 📈 Stats and widgets
 
