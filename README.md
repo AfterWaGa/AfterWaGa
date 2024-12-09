@@ -8,7 +8,7 @@ Hello there, Exile!<br>
 
 ## 🛠️ Web and mobile testing
 <div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width=40 height=40 alt="Figma" title="Figma">
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width=30 height=30 alt="Figma" title="Figma">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width=40 height=40 alt="HTML5" title="HTML5">
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=40 height=40 alt="CSS3" title="CSS3">
   <img src="https://camo.githubusercontent.com/51853941260ae860198fc42caf94c597eba7dc12e6f8d3caf65df49c1b6e82b6/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f636861726c65735f70726f78795f6d61636f735f6269677375725f69636f6e5f3139303330322e706e67" width=40 height=40 alt="Charles Proxy" title="Charles Proxy">
