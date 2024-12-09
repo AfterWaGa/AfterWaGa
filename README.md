@@ -44,11 +44,15 @@
 </div>
 
 
+
+
 ## 💻 My In-depth Projects
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
 | [Ellty Graphic Design Platform](https://github.com/AfterWaGa/ellty) | [Live Demo](https://afterwaga.github.io/ellty/) | First selfmade project. HTML, CSS (SCSS), JS, responsive web design practice. |
+
+
 
 
 ## :mortar_board: My training Projects
