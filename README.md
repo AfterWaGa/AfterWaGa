@@ -49,7 +49,7 @@
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
-| [Ellty Graphic Design Platform](https://github.com/AfterWaGa/ellty) | [Live Demo](https://afterwaga.github.io/ellty/) | First selfmade project. HTML, CSS (SCSS), JS, responsive web design practice. |
+| [Ellty Graphic Design Platform](https://github.com/AfterWaGa/ellty) | [Live Demo](https://afterwaga.github.io/ellty/) | Selfmade project. HTML, CSS (SCSS), JS, responsive web design practice. |
 <br>
 
 ## :mortar_board: My training Projects
